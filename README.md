@@ -1,1 +1,2 @@
 # report-sys-win
+Script que recopila información clave sobre los parámetros del sistema en Windows, incluyendo el uso actual de memoria, el estado del disco principal (espacio total y libre), detalles de red como direcciones IP activas, así como otros datos relevantes como el sistema operativo, arquitectura, tiempo de actividad, nombre del equipo y estado de la batería. Es una herramienta útil para obtener una visión general del estado y rendimiento del sistema, ideal tanto para usuarios como para administradores.
